@@ -93,3 +93,11 @@ This project relies on the following libraries (loaded locally, not via CDN):
 - Move from inline canvas-positioned sliders to a styled HTML/CSS control panel.
 - Replace manual pixel-loop filters with `p5.Shader`/WebGL for performance on larger images.
 - Swap YIQ/HSB thresholding for YCrCb to reduce segmentation noise.
+
+## Video Demonstration
+
+https://github.com/user-attachments/assets/21864082-e679-44ce-acb8-09985c80b874
+
+
+
+
